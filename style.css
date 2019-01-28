@@ -33,6 +33,7 @@ ul {
   font-size: 24pt;
   border: none;
   background-color: white;
+  outline:none;
 }
 
 .content {
